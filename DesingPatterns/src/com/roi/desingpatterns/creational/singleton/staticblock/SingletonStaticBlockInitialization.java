@@ -1,4 +1,4 @@
-package com.roi.desingpatterns.singleton.staticblock;
+package com.roi.desingpatterns.creational.singleton.staticblock;
 
 
 //Static Block initialization implementation is similar to eager initialization 

@@ -1,4 +1,4 @@
-package com.roi.desingpatterns.singleton.lazy;
+package com.roi.desingpatterns.creational.singleton.lazy;
 
 
 //Lazy initialization  method to implementation singleton  design pattern 

@@ -1,4 +1,4 @@
-package com.roi.desingpatterns.singleton.lazy;
+package com.roi.desingpatterns.creational.singleton.lazy;
 
 public class Test {
 

@@ -1,4 +1,4 @@
-package com.roi.desingpatterns.singleton.threadsafe;
+package com.roi.desingpatterns.creational.singleton.threadsafe;
 
 //Below implementation  works fine 
 //and provides thread safety

@@ -1,4 +1,4 @@
-package com.roi.desingpatterns.singleton.threadsafe;
+package com.roi.desingpatterns.creational.singleton.threadsafe;
 
 public class SingletonThreadSafeDoublecheckedLocking {
 

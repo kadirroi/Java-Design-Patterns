@@ -1,4 +1,4 @@
-package com.roi.desingpatterns.singleton.eager;
+package com.roi.desingpatterns.creational.singleton.eager;
 
 public class Test {
 

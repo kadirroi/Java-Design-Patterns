@@ -1,6 +1,6 @@
-package com.roi.desingpatterns.singleton.eager;
+package com.roi.desingpatterns.creational.singleton.eager;
 
-import com.roi.desingpatterns.singleton.billpugh.TestRunnableClass;
+import com.roi.desingpatterns.creational.singleton.billpugh.TestRunnableClass;
 
 public class TestThreadSafe {
 

@@ -1,4 +1,4 @@
-package com.roi.desingpatterns.singleton.staticblock;
+package com.roi.desingpatterns.creational.singleton.staticblock;
 
 public class Test {
 

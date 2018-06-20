@@ -1,4 +1,4 @@
-package com.roi.desingpatterns.singleton.billpugh;
+package com.roi.desingpatterns.creational.singleton.billpugh;
 
 public class SingletonBillPugh {
 

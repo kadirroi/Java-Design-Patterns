@@ -1,4 +1,4 @@
-package com.roi.desingpatterns.singleton.eager;
+package com.roi.desingpatterns.creational.singleton.eager;
 
 //singleton class is created at the time of class loading 
 //this is the easiest way to create  a singleton class but 
